@@ -1,0 +1,9 @@
+"./main.obj"
+"./key/key.obj"
+"./mpu6050/gpio.obj"
+"./mpu6050/mpu6050.obj"
+"./oled/oled.obj"
+"./system/usart.obj"
+"../lnk_msp430f5529.cmd"
+-llibmath.a
+-llibc.a
